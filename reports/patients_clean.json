@@ -1,0 +1,58 @@
+[
+  {
+    "patient_id": "P101",
+    "name": "Priya Sharma",
+    "age": 34,
+    "department": "Cardiology",
+    "consultation_fee": 1250.5,
+    "visit_date": "2026-08-01"
+  },
+  {
+    "patient_id": "P102",
+    "name": "Rahul Verma",
+    "age": 41,
+    "department": "Orthopedics",
+    "consultation_fee": 900.0,
+    "visit_date": "2026-08-01"
+  },
+  {
+    "patient_id": "P103",
+    "name": "Anita Desai",
+    "age": 29,
+    "department": "Cardiology",
+    "consultation_fee": 1100.0,
+    "visit_date": "2026-08-02"
+  },
+  {
+    "patient_id": "P105",
+    "name": "Sneha Kulkarni",
+    "age": 52,
+    "department": "Cardiology",
+    "consultation_fee": 1450.0,
+    "visit_date": "2026-08-03"
+  },
+  {
+    "patient_id": "P106",
+    "name": "Amit Joshi",
+    "age": 38,
+    "department": "General",
+    "consultation_fee": 850.0,
+    "visit_date": "2026-08-03"
+  },
+  {
+    "patient_id": "P108",
+    "name": "Kiran Rao",
+    "age": 61,
+    "department": "General",
+    "consultation_fee": 600.0,
+    "visit_date": "2026-08-04"
+  },
+  {
+    "patient_id": "P109",
+    "name": "Divya Menon",
+    "age": 27,
+    "department": "Dermatology",
+    "consultation_fee": 980.25,
+    "visit_date": "2026-08-05"
+  }
+]

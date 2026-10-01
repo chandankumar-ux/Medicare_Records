@@ -1,0 +1,11 @@
+{
+  "valid_records": 7,
+  "rejected_rows": 3,
+  "total_revenue": 7130.75,
+  "revenue_by_department": {
+    "Cardiology": 3800.5,
+    "Orthopedics": 900.0,
+    "General": 1450.0,
+    "Dermatology": 980.25
+  }
+}
